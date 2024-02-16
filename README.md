@@ -1,6 +1,6 @@
 # Class notes
 
-Here goes my notes for the second commit for "Diplomado de aplicaciones Móviles"
+Here goes my notes for the second commit for "Diplomado de aplicaciones Móviles iOS "
 
 Git se maneja por apuntadores.
 
