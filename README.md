@@ -10,7 +10,7 @@ para cambiarse a la rama se utiliza el comando
 "git checkout name_branch"
 
 # First Module
-- MacOs
+- OS X
 - Constants and Variables
 - Collections
 - Data Types
