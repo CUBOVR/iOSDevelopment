@@ -14,3 +14,5 @@ para cambiarse a la rama se utiliza el comando
 - Constants and Variables
 - Collections
 - Data Types
+- git (config, command)
+- Class and structures
