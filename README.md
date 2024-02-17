@@ -16,3 +16,4 @@ para cambiarse a la rama se utiliza el comando
 - Data Types
 - git (config, command)
 - Class and structures
+- Functions and methods
